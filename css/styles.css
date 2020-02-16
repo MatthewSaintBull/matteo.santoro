@@ -49,6 +49,11 @@ main > .intro {
 	font-weight: 600;
 }
 
+main > .intro > p:hover{
+	color: #1f3a93;
+}
+
+
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
@@ -71,5 +76,6 @@ main > .tagline {
 }
 
 .link:hover {
-	opacity: 0.3;
+	opacity: 0.6;
+	color: #1f3a93;
 }
